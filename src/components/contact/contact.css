@@ -1,0 +1,28 @@
+.main { 
+    background-color: black;
+    width: 100%;
+}
+
+.details {
+    margin: auto;
+    width: 80%;
+    height: 600px;
+    background: black;
+    color: #ffffff;
+    text-align: center;
+    align-items: center;
+}
+
+.name-detail {
+    font-size: 30px;
+}
+
+.phone-detail {
+    font-size: 30px;
+}
+
+.email-detail {
+    font-size: 30px;
+}
+
+

@@ -1,0 +1,55 @@
+.container {
+    background-color: black;
+    width:100%;
+    margin:0px auto;
+    align-items: center;
+    color:#ffffff;
+}
+
+.infoContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* width: 100%; */
+}
+
+.devPic img {
+    width:800px;
+    height: 600px;
+}
+
+.hello {
+    font-size: 50px;
+}
+
+.name {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.about {
+    font-size: 30px;
+}
+
+.moreabout {
+    font-size: 30px;
+}
+
+.detail {
+    margin-left: 30px;
+    
+}
+
+.buttons button {
+    background: #ffffff;
+    font-size: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-top: 20px;
+    width: 150px;
+}
+
+.buttons button:hover {
+    background: gray;
+    color: #ffffff;
+}

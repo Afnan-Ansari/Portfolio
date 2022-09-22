@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.sidebar {
+   background-color: red;
+   display: flex;
+   align-items: center;
+   height:50px;
+   padding-left: 20px;
+   font-size: 20px;
+}
+.sidebar ul li {
+    display: inline-block;
+   
+}
+.sidebar ul {
+    margin-left: auto;
+}
+.list-item a {
+    text-decoration: none;
+    padding:0 30px;
+    color: black;
+}

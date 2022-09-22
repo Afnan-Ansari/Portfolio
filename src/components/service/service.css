@@ -1,0 +1,10 @@
+.service {
+    background-color: black;
+    color: #ffffff;
+    height: 600px;
+    text-align: center;
+}
+
+.service p {
+    font-size: 40px;
+}
